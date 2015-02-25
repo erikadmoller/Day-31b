@@ -1,0 +1,9 @@
+{
+  "name": "day-31b",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "modernizr": "~2.8.1",
+    "angular-ui-router": "~0.2.13"
+  }
+}
